@@ -1,0 +1,9 @@
+{
+  "movies": [
+    { "id": 1, "title": "Ahsoka" },
+    { "id": 2, "title": "Oppenheimer" },
+    { "id": 3, "title": "Blue Beetle" },
+    { "id": 4, "title": "Barbie" },
+    { "id": 5, "title": "Rebel Moon" }
+  ]
+}
